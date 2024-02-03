@@ -22,7 +22,20 @@ EXCUSES = [
     "It's a feature.",
     "Can't even curl it.",
     "IE6?!",
+    "The code is compiling, it will work soon.",
+    "I think it's a cosmic ray issue.",
+    "It's a feature, not a bug, I swear.",
+    "The documentation is clearly mistaken.",
+    "I'm not a magician, I can't fix everything.",
+    "I'm not a psychic, I can't predict everything.",
+    "It's a feature, the users just don't know it.",
+    "I'm pretty sure the code is haunted.",
+    "I think the code is allergic to Tuesdays.",
+    "I'm not a mind reader, I need more info.",
+    "I'm not a miracle worker, I'm just a programmer.",
+    "It's a case of parallel universe interference.",
 ]
+
 
 def roll(count: int) -> list[str]:
     """Returns a greeting."""
